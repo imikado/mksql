@@ -620,7 +620,7 @@ tColumnTable['<?php echo $sTable?>']=new Array();
 	<form style="float:right" action="index.php?:nav=default::export" method="POST" target="_blank" onsubmit="loadsql()">
 		<input type="hidden" name="connexion" value="<?php echo _root::getParam('connexion')?>"/>
 		<input type="hidden" name="sColumn" id="sColumnForCsv"/>
-		<textarea name="sql" id="sqlForCsv" ></textarea>
+		<textarea name="sql" id="sqlForCsv" style="display:none" ></textarea>
 		<input type="submit" value="Export to Csv"/>
 	</form>
 </div>
