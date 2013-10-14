@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure>
+<colonne primaire="true">id</colonne>
+<colonne>code</colonne>
+<colonne>nom</colonne>
+</structure>

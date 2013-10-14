@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure>
+<colonne primaire="true">id</colonne>
+<colonne>dsn</colonne>
+<colonne>login</colonne>
+<colonne>pass</colonne>
+<colonne>type</colonne>
+<colonne>nom</colonne>
+</structure>

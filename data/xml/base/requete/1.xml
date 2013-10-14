@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<main>
+<code><![CDATA[tTable:mentions__NEXT__posts
+tCoord:tablementions__SEP__159px__SEP__152px__NEXT__tableposts__SEP__121px__SEP__678px__NEXT__
+tJoin:mentions__SEP__posts__SEP__mentions.id=posts.member_id__NEXT__
+tColumn:posts.text__SEP__posts.dateCreation__SEP__posts.text__SEP__
+tColumnWhere:mentions.id__SEP__1__NEXT__mentions.member_id__SEP__2__NEXT__posts.member_id__SEP__4__NEXT__mentions.id__SEP__1__NEXT__mentions.member_id__SEP__2__NEXT__mentions.id__SEP__1__NEXT__mentions.member_id__SEP__2__NEXT__posts.member_id__SEP__4__NEXT__mentions.id__SEP__1__NEXT__mentions.member_id__SEP__2__NEXT__posts.member_id__SEP__4__NEXT__mentions.id__SEP__1__NEXT__mentions.member_id__SEP__2__NEXT__mentions.id__SEP__1__NEXT__mentions.member_id__SEP__2__NEXT__posts.member_id__SEP__4__NEXT__mentions.id__SEP__1__NEXT__mentions.member_id__SEP__2__NEXT__posts.member_id__SEP__4__NEXT__]]></code>
+<id><![CDATA[1]]></id>
+<nom><![CDATA[test3]]></nom>
+</main>

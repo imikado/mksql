@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<main>
+<code><![CDATA[tTable:members__NEXT__posts
+tCoord:tablemembers__SEP__16px__SEP__247px__NEXT__tableposts__SEP__61px__SEP__770px__NEXT__
+tJoin:members__SEP__posts__SEP__members.id=posts.member_id__NEXT__
+tColumn:members.login__SEP__posts.text__SEP__
+tColumnSimple:login__SEP__text__SEP__
+tColumnWhere:]]></code>
+<nom><![CDATA[MembresPosts]]></nom>
+<id><![CDATA[4]]></id>
+</main>

@@ -1,0 +1,6 @@
+5
+id;sgbd;nom;
+1;pdo_mysql;pdo mysql;
+2;pdo_mssql;pdo mssql;
+3;pdo_oracle;pdo oracle;
+4;pdo_pgsql;pdo postgresql;

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<main>
+<dsn><![CDATA[mysql:dbname=microblogging2;host=localhost]]></dsn>
+<login><![CDATA[root]]></login>
+<pass><![CDATA[root]]></pass>
+<type><![CDATA[1]]></type>
+<nom><![CDATA[mysql microblogging]]></nom>
+<id><![CDATA[1]]></id>
+</main>
